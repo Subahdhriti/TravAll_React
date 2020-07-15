@@ -8,9 +8,6 @@ import editExpensePage from '../components/editExpense';
 import helpPage from '../components/help';
 import notFoundPage from '../components/notFound';
 import Header from '../components/Header';
-  
-
-  
 
 const AppRouter = () => {
     return (

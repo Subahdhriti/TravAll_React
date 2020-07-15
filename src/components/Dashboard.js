@@ -5,7 +5,7 @@ import React from 'react';
 const dashboardPage = () => {
     return (
     <div>
-      This is Dashboard
+      This is Dashboard...
     </div>
     )
   }
